@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.5</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.6.1" />
+    <PackageReference Include="Grpc" Version="1.17.0" />
+    <PackageReference Include="Grpc.Tools" Version="1.17.0" PrivateAssets="All" />
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Alturos.Yolo\Alturos.Yolo.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="protos\yolo_service.proto" />
+  </ItemGroup>
+
+</Project>

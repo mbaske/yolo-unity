@@ -1,0 +1,324 @@
+{
+    "labelColors": [
+        {
+            "descr": "person",
+            "color": "#cc9900"
+        },
+        {
+            "descr": "bicycle",
+            "color": "#ff5050"
+        },
+        {
+            "descr": "car",
+            "color": "#990000"
+        },
+        {
+            "descr": "motorbike",
+            "color": "#660033"
+        },
+        {
+            "descr": "aeroplane",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "bus",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "train",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "truck",
+            "color": "#800000"
+        },
+        {
+            "descr": "boat",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "traffic light",
+            "color": "#333300"
+        },
+        {
+            "descr": "fire hydrant",
+            "color": "#993300"
+        },
+        {
+            "descr": "stop sign",
+            "color": "#ff99cc"
+        },
+        {
+            "descr": "parking meter",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "bench",
+            "color": "#6600ff"
+        },
+        {
+            "descr": "bird",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "cat",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "dog",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "horse",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "sheep",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "cow",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "elephant",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "bear",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "zebra",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "giraffe",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "backpack",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "umbrella",
+            "color": "#000066"
+        },
+        {
+            "descr": "handbag",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "tie",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "suitcase",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "frisbee",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "skis",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "snowboard",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "sports ball",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "kite",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "baseball bat",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "baseball glove",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "skateboard",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "surfboard",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "tennis racket",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "bottle",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "wine glass",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "cup",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "fork",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "knife",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "spoon",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "bowl",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "banana",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "apple",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "sandwich",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "orange",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "broccoli",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "carrot",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "hot dog",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "pizza",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "donut",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "cake",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "chair",
+            "color": "#3366cc"
+        },
+        {
+            "descr": "sofa",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "pottedplant",
+            "color": "#009933"
+        },
+        {
+            "descr": "bed",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "diningtable",
+            "color": "#0099ff"
+        },
+        {
+            "descr": "toilet",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "tvmonitor",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "laptop",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "mouse",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "remote",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "keyboard",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "cell phone",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "microwave",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "oven",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "toaster",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "sink",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "refrigerator",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "book",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "clock",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "vase",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "scissors",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "teddy bear",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "hair drier",
+            "color": "#ffffff"
+        },
+        {
+            "descr": "toothbrush",
+            "color": "#ffffff"
+        }
+    ]
+}

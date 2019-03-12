@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "Yolo";
+
+service YoloService {
+  rpc Detect (DetectionRequest) returns (stream DetectionResponse) {}
+}
+
+message DetectionRequest {
+  bytes image = 1;
+}
+
+message DetectionResponse {
+  repeated DetectionResult yoloItems = 1;
+  int32 elapsedMilliseconds = 2;
+}
+
+message DetectionResult {
+  string type = 1;
+  double confidence = 2;
+  int32 x = 3;
+  int32 y = 4;
+  int32 width = 5;
+  int32 height = 6;
+}
