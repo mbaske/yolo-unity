@@ -1,7 +1,6 @@
 using UnityEngine;
 using Grpc.Core;
 using System;
-using System.Collections.Generic;
 using System.Diagnostics;
 
 namespace Yolo
@@ -51,7 +50,7 @@ namespace Yolo
             }
             else if (client.HasNewResponse)
             {
-                UnityEngine.Debug.Log(string.Format("Detection time: {0}ms, Roundtrip time {1}ms",
+                UnityEngine.Debug.Log(string.Format("Detection time: {0}ms, Roundtrip time: {1}ms",
                    result.ElapsedMilliseconds, timer.Elapsed.Milliseconds));
 
                 timer.Restart();
