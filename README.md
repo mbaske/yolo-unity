@@ -10,4 +10,4 @@ Experimental [Yolo object detection](https://github.com/AlexeyAB/darknet) for Un
 - Launch `YoloSrc\YoloServer\bin\Release\netcoreapp2.1\win-x64\YoloServer.exe`
 - Open `YoloUnity` project in Unity editor and enter play mode
 
-Exit and re-enter play mode in case you get an RPC failed Grpc.Core.RpcException.
+Exit and re-enter play mode in case you get a Grpc.Core.RpcException.
