@@ -1,3 +1,5 @@
+This is an outdated project. There are easier ways of integrating image classification in Unity by now. For instance, check out [https://www.youtube.com/watch?v=LhzKfx2kuDs](https://www.youtube.com/watch?v=LhzKfx2kuDs)
+
 ## YOLO In-Game Object Detection for Unity (Windows)
 
 <img src="images/banner.png" align="middle" width="1280"/>
